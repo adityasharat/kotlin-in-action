@@ -1,5 +1,0 @@
-package ch02.ex3
-
-enum class Days {
-    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
-}
