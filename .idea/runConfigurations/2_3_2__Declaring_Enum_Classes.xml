@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="2.3.2. Declaring Enum Classes" type="JetRunConfigurationType" factoryName="Kotlin">
+    <module name="chapter 2" />
+    <option name="VM_PARAMETERS" value="" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="MAIN_CLASS_NAME" value="ch02.ex3._02__Declaring_Enum_ClassesKt" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <method />
+  </configuration>
+</component>
