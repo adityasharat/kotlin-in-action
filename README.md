@@ -31,4 +31,10 @@ Open in IntelliJ
 |        |  ├── 08. Eval If.kt
 |        |  ├── 09. Refactoring Replacing If With When.kt
 |        |  └── 10. Blocks As Branches Of If And When.kt
+|        ├── ex4
+|        |  ├── 01. FizzBuzz.kt
+|        |  ├── 02. Iterating Over Numbers Ranges And Progressions.kt
+|        |  ├── 03. Iterating Over Maps.kt
+|        |  ├── 04. Using An In Check.kt
+|        |  └── 05. Using An In Check With When.kt
 </pre>
