@@ -4,6 +4,7 @@ See kotlin in action.
 
 Open in IntelliJ
 
+<pre>
 ├── chapter 1
 |        └── 1.1  A Taste of Kotlin.kt
 ├── chapter 2
@@ -19,3 +20,4 @@ Open in IntelliJ
 |        |  ├── 03. Custom Accessors.kt
 |        |  ├── 04. Rectangle.kt
 |        |  └── 05. Example.kt
+</pre>
