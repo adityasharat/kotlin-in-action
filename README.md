@@ -37,4 +37,8 @@ Open in IntelliJ
 |        |  ├── 03. Iterating Over Maps.kt
 |        |  ├── 04. Using An In Check.kt
 |        |  └── 05. Using An In Check With When.kt
+|        └── ex5
+|           ├── 01. Try Catch And Finally.kt
+|           ├── 02. Try As An Expression.kt
+|           └── 03. Try As An Expression But Different.kt
 </pre>
